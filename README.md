@@ -1,4 +1,4 @@
-## Oiii, eu sou o Yuri Ximenes!
+## Oi, eu sou o Yuri Ximenes!
 
 <div align="center">
   <a href="https://github.com/YuriXimenes">
